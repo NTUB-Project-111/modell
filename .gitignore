@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#檔案過大，無法上傳，完整版請使用下載連結下載
+*.keras
+*.tflite
